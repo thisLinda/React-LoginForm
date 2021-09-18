@@ -1,3 +1,7 @@
+# Note about Styling
+
+The requirements of the assignment were to use the default generated CSS but add a border. For practice I created login and navigation pages using Bootstrap (not connected) as well as rudimentary CSS for the completed assignment.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
